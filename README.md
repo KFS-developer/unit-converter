@@ -58,8 +58,7 @@ npm run dev
 
 ## 🌍 Live Demo
 
-Coming soon...  
-Host your frontend using **Vercel**/**Netlify** and backend via **Render**/**Glitch**.
+[🔗 Visit Live Demo](https://unit-converter-kfs.vercel.app/)
 
 ---
 
